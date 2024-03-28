@@ -15,3 +15,5 @@ The objective of this project is to develop a custom context holder similar to t
 1. [ ] Construct a custom context holder.
 2. [ ] When a customer account (mock) visits `/shopping/**` to make purchases, populate the custom context holder with user information. This allows us to retrieve customer details, such as VIP level and wallet balance, under `/shopping/**`.
 3. [ ] The lifecycle of the custom context holder should align with the request lifecycle (perhaps a session?).
+
+[README2](README2.md)
